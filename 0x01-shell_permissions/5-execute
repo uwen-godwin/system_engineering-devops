@@ -1,1 +1,1 @@
-chmod 744 hello
+chmod u+x hello
